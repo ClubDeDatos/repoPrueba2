@@ -15,6 +15,7 @@ Cada estudiante deberá trabajar en su **propio fork**.
    cd repoPrueba2
 3. Abrí la terminal **en la carpeta donde se clonó el repositorio**
 4. Escribí ésto
+   ```bash
     git config user.name "Tu Nombre"
     git config user.email "tu-email-noreply@users.noreply.github.com"
     git config credential.helper ""
