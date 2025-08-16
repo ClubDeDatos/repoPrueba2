@@ -20,5 +20,6 @@ Cada estudiante deberá trabajar en su **propio fork**.
     git config user.email "tu-email-noreply@users.noreply.github.com"
     git config credential.helper ""
 5. Conectá tu repo con el **repositorio fuente**
+   ```bash
    git remote add upstream https://github.com/ClubDeDatos/repoPrueba2.git
 
